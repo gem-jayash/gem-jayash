@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center" width="50">
+    <img src="./assets/fire.gif" alt="Jayash"/>
+</div>
 <!--
 **gem-jayash/gem-jayash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
